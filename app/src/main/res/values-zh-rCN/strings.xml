@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sorce</string>
+    <string name="name">请输入队名</string>
+    <string name="btn_add3">+3分</string>
+    <string name="btn_add2">+2分</string>
+    <string name="btn_add1">+1分</string>
+    <string name="btn_re">重置</string>
+</resources>

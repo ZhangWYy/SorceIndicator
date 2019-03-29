@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sorce</string>
+    <string name="name">Please input the team name</string>
+    <string name="score" translatable="false">0</string>
+    <string name="btn_add3">+3 POINTS</string>
+    <string name="btn_add2">+2 POINTS</string>
+    <string name="btn_add1" >+1 POINT</string>
+    <string name="btn_re">RESET</string>
+</resources>
