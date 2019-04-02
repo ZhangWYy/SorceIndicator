@@ -4,6 +4,8 @@
     <string name="score" translatable="false">0</string>
     <string name="btn_add3">+3 POINTS</string>
     <string name="btn_add2">+2 POINTS</string>
-    <string name="btn_add1" >+1 POINT</string>
+    <string name="btn_add1">+1 POINT</string>
     <string name="btn_re">RESET</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
 </resources>

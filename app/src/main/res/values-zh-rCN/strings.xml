@@ -6,4 +6,6 @@
     <string name="btn_add2">+2分</string>
     <string name="btn_add1">+1分</string>
     <string name="btn_re">重置</string>
+    <string name="teamA">A队</string>
+    <string name="teamB">B队</string>
 </resources>
