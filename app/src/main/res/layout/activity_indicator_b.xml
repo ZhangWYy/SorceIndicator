@@ -33,7 +33,7 @@
                 android:layout_height="152dp"
                 android:gravity="center"
                 android:textSize="50sp"
-                tools:text="@string/score" />
+                tools:text="@string/scoreA" />
 
             <Button
                 android:id="@+id/add3A"
@@ -93,7 +93,7 @@
                 android:layout_height="152dp"
                 android:gravity="center"
                 android:textSize="50sp"
-                tools:text="@string/score" />
+                tools:text="@string/scoreB" />
 
             <Button
                 android:id="@+id/add3B"

@@ -8,4 +8,6 @@
     <string name="btn_re">RESET</string>
     <string name="teamA">Team A</string>
     <string name="teamB">Team B</string>
+    <string name="scoreA" translatable="false">0</string>
+    <string name="scoreB" translatable="false">0</string>
 </resources>
